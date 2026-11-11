@@ -1,0 +1,15 @@
+print("==========hola ji ji gracias por ver======================")       
+a = input("ingresa el primer número")
+b = input("ingresa el segundo número")
+c = input("ingresa el tercer número")
+d = input("ingresa el cuarto número")
+a = int(a)
+b = int(b)
+c = int(c)
+d = int(d)
+print("la suma es: ",a+d)
+print("la resta es: ",d-c)
+print("la multiplicación es: ",a*b*c)
+print("la división es: ",a/c)
+
+
